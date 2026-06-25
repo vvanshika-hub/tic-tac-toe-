@@ -7,5 +7,5 @@ Please place screenshots of your running application in this folder with the fol
 3. **`top-scorers-window.png`**: A screenshot of the top defenders leaderboard screen.
 
 These will automatically render in the main project `README.md`!
-repo link:https://github.com/vvanshika-hub/tic-tac-toe-.git
-youtube link: https://youtu.be/ljyT0k9bfnw?si=rjqybmmr0KlrHnkb
+    repo link: https://github.com/vvanshika-hub/tic-tac-toe-.git
+    youtube link: https://youtu.be/ljyT0k9bfnw?si=rjqybmmr0KlrHnkb
