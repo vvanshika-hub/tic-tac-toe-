@@ -1,0 +1,9 @@
+# Screenshots
+
+Please place screenshots of your running application in this folder with the following filenames:
+
+1. **`login-window.png`**: A screenshot of your login screen.
+2. **`game-window.png`**: A screenshot of the gameplay battlefield in action.
+3. **`top-scorers-window.png`**: A screenshot of the top defenders leaderboard screen.
+
+These will automatically render in the main project `README.md`!
